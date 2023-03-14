@@ -1,0 +1,180 @@
+#Rect
+1 13
+75 47
+#Circle
+16
+38 67
+#Triangle
+30 12 36
+43 50
+#Rect
+4 6
+75 56
+#Circle
+20
+77 21
+#Triangle
+4 15 13
+33 74
+#Rect
+16 17
+68 7
+#Circle
+6
+65 39
+#Triangle
+30 27 32
+1 25
+#Rect
+7 1
+49 55
+#Circle
+15
+63 43
+#Triangle
+8 3 9
+56 15
+#Rect
+7 1
+72 44
+#Circle
+12
+39 16
+#Triangle
+13 16 5
+62 15
+#Rect
+18 15
+79 18
+#Circle
+5
+37 3
+#Triangle
+17 14 17
+16 5
+#Rect
+11 7
+28 79
+#Circle
+4
+36 20
+#Triangle
+4 12 12
+74 16
+#Rect
+2 18
+41 59
+#Circle
+15
+49 11
+#Triangle
+11 9 12
+75 10
+#Rect
+6 3
+7 21
+#Circle
+17
+14 70
+#Triangle
+8 17 19
+34 29
+#Rect
+6 4
+53 13
+#Circle
+19
+37 74
+#Triangle
+18 11 14
+8 2
+#Rect
+7 1
+48 44
+#Circle
+8
+48 37
+#Triangle
+2 3 3
+75 72
+#Rect
+20 19
+46 43
+#Circle
+12
+61 31
+#Triangle
+13 30 36
+47 48
+#Rect
+12 18
+63 9
+#Circle
+14
+20 27
+#Triangle
+30 3 28
+51 65
+#Rect
+12 5
+4 13
+#Circle
+20
+0 37
+#Triangle
+27 23 34
+62 13
+#Rect
+17 11
+58 25
+#Circle
+17
+17 37
+#Triangle
+20 27 18
+13 14
+#Rect
+16 17
+78 50
+#Circle
+13
+23 78
+#Triangle
+24 3 22
+13 27
+#Rect
+6 11
+32 24
+#Circle
+8
+10 20
+#Triangle
+15 1 15
+20 30
+#Rect
+14 7
+5 64
+#Circle
+7
+3 77
+#Triangle
+21 10 27
+38 52
+#Rect
+6 2
+54 50
+#Circle
+10
+18 19
+#Triangle
+10 16 20
+27 39
+#Rect
+7 20
+44 30
+#Circle
+8
+19 78
+#Triangle
+17 28 18
+49 18
